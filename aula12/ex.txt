@@ -1,0 +1,20 @@
+"""
+Competências a serem avaliadas:
+- Conhecer os comandos da linguagem
+- Saber utilizar os comandos corretamente
+- Desenvolver uma solução viável para a atividade proposta
+- Códigos iguais = D
+
+Faça um algoritmo que leia o nome, a idade e o genero
+de pelo menos 5 pessoas.
+OBS: para o gênero aceitar a digitação apenas de F ou M.
+
+Armazene esses dados nas listas: lst_nome, lst_idade e lst_genero.
+Encerre a digitação quando for digitado a palavra 'fim' no nome da
+pessoa.
+Após imprima as seguintes informações:
+-> Média de idades das pessoas
+-> Nome da pessoa mais velha
+-> Percentual de pessoas do gênero Feminino
+
+"""
